@@ -3,9 +3,9 @@
 This web application is a to-do list application made as one of the requirements for **Software Design**.
 
 ## Site hosted in Github
-([https://nezdevs.github.io/Listify/](https://nezdevs.github.io/Listify/))
+(https://nezdevs.github.io/Listify/)
 ## Site hosted in Listify
-([https://listify2.netlify.app](https://listify2.netlify.app))
+(https://listify2.netlify.app)
 ## Listify APK
 [Listify.apk](https://drive.google.com/drive/folders/1HTVVngUh03vPJ5_qv46XRlS4W_zvLKIt?usp=sharing)
 
